@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Fairfax's proceedings about the storming of Exeter: the majors house taken, and four companies of foot put into it. A bridge made over at Apsom. The prince's horse forced back towards Barnstable. A major, and divers prisoners and horse taken. None of Gorings life-guard, and many others brought in. Fifty souldiers ran away out of one regiment; and all those raised by the posse gone home; and the prince and his forces flying further into Cornwall; and one piece of ordnance left at the princes quarters at Launceston; with the state of the whole accompt of the west. By a letter brought to the Honorable William Lenthal Esq; Speaker of the Honorable House of Commons, commanded to be printed.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93299</idno>
+            <idno type="STC">Wing S3897</idno>
+            <idno type="STC">Thomason E322_3</idno>
+            <idno type="STC">ESTC R200576</idno>
+            <idno type="EEBO-CITATION">99861289</idno>
+            <idno type="PROQUEST">99861289</idno>
+            <idno type="VID">159517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159517)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E322[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Fairfax's proceedings about the storming of Exeter: the majors house taken, and four companies of foot put into it. A bridge made over at Apsom. The prince's horse forced back towards Barnstable. A major, and divers prisoners and horse taken. None of Gorings life-guard, and many others brought in. Fifty souldiers ran away out of one regiment; and all those raised by the posse gone home; and the prince and his forces flying further into Cornwall; and one piece of ordnance left at the princes quarters at Launceston; with the state of the whole accompt of the west. By a letter brought to the Honorable William Lenthal Esq; Speaker of the Honorable House of Commons, commanded to be printed.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbank,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Febr. 9. 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Exeter (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159517:1" rendition="simple:additions"/>
+            <p>Sir <hi>Thomas Fairfax</hi>'s PROCEEDINGS About the Storming of EXETER: The Majors houſe taken, and four Companies of Foot put into it. A Bridge made over at <hi>Apſem.</hi>
+            </p>
+            <p>The Princes Horſe forced back towards <hi>Barnſtable.</hi> A Major, and divers Priſoners and Horſe taken. Nine of <hi>Gorings</hi> Life-guard, and many others brought in. Fifty Souldiers ran away out of one Regiment; and all thoſe raiſed by the <hi>Poſſe</hi> gone home; and the Prince and his Forces flying fur<g ref="char:EOLhyphen"/>ther into <hi>Cornwall;</hi> and one piece of Ordnance left at the Princes Quarters at <hi>Launceſton;</hi> with the ſtate of the whole accompt of the Weſt.</p>
+            <p>
+               <hi>By a Letter brought to the Honorable</hi> William Len<g ref="char:EOLhyphen"/>thal <hi>Eſq Speaker of the Honorable Houſe of Com<g ref="char:EOLhyphen"/>mons, commanded to be printed.</hi>
+            </p>
+            <p>LONDON: Printed for <hi>Matthew Walbank,</hi> Febr. 9. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159517:2"/>
+            <pb n="3" facs="tcp:159517:2"/>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Found the Weſt country indeed craggy, and the people and entertainment for the moſt part crabbed, yet I thank God, what is to be had, we have the beſt in our quar<g ref="char:EOLhyphen"/>ters, being content with the Enemies lea<g ref="char:EOLhyphen"/>vings, who hath left very little proviſion for man or horſe in theſe parts: For Intelligence at pre<g ref="char:EOLhyphen"/>ſent what we have is, That we have ſetled our Quarters about Exeter; Col: <hi>Harlo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> Regiment is about Exmin<g ref="char:EOLhyphen"/>ſter, three companies of Col: <hi>Herberts</hi> Regiment are at Peymouth, and in the lanes between that and Exminſter are Horſe Sentinels: Another Quarter is at Shellingford houſe, maintained by three companies more of Col: <hi>Her<g ref="char:EOLhyphen"/>berts</hi> Regiment: A fourth at Bouvy in Mrs. <hi>Peters</hi> houſe; the other Forces, amongſt which Col: <hi>Hamonds</hi> Regiment are, about Affington and other places a mile from Exeter, and ſome at the Majors houſe at Barley within Muſ<g ref="char:EOLhyphen"/>quet ſhot. The Generall hath ſent to all the Hundreds hereabouts for Ladders, and we hope to be in Exeter yet before the firſt of March. Col: <hi>Lamberts</hi> Regiment is yet at Dartmouth, Col: <hi>Forteſcues</hi> at Totnes, and Col: <hi>Ingols<g ref="char:EOLhyphen"/>bies</hi> at Chidley; yeſterday we had a rumour here, that the greateſt part of the Enemies horſe were come to Chim<g ref="char:EOLhyphen"/>leigh, twelve miles from Tiverton (where the Generall then was) and intended to go thence to relieve Dunſter caſtle, and ſo (if poſſible) to joyn with thoſe Horſe about Blandford; but this morning we have certain Advertiſe<g ref="char:EOLhyphen"/>ment, That they plundred in Chimleigh yeſterday the
+<pb n="4" facs="tcp:159517:3"/>worth of Five hundred pounds, and returned to their quarters, there were not above three or four hundred of them, and they were gone by morning. Barſtaple horſe have contracted their Quarters into Newport neer the Town, having left Tanton their former Quarters; for, <hi>Gorings</hi> horſe have advanced their Quarters Eaſt, as far as Branton and Bray; they returned yeſterday morning into North-Taveſtock, Alſchot, and keep a Guard at New<g ref="char:EOLhyphen"/>bridge over the River <hi>Tau,</hi> three miles on this ſide Bar<g ref="char:EOLhyphen"/>ſtaple, they have alſo placed a Guard at Winckley Beacon; they were (as this day) to receive at Sunbridge and the pariſhes adjoyning, ſix weeks pay, and afterwards the pro<g ref="char:EOLhyphen"/>portion of a weeks pay every day. Tueſday laſt divers ploughs and horſes, all laden, ſome with proviſions, have been ſent out of Launceſton Weſtward; there was alſo great ſtore of Bread baked, the Bread was brought in flaſ<g ref="char:EOLhyphen"/>kets from a Bakehouſe in that town, where it was baked by the Princes Baker, and was immediately ſent away Weſtward; ſix or ſeven ploughs more were drawn out of Launceſton on Wedneſday night Weſtwards, alſo further into Cornwall, much of their Lading was Muſ<g ref="char:EOLhyphen"/>quets, Pikes, and other Ammunition; the reſt of the La<g ref="char:EOLhyphen"/>ding was Victuals, as poudred Beef and Cheeſe, with them were about forty horſe, laden with Powder, Match, and Bullets, and Lead which they had taken off from the Caſtle, ſo that it is all unleaded; much of the Ammuni<g ref="char:EOLhyphen"/>tion was loaded out of Guild-hall, which is their main Guard; on Thurſday night neer fifty more horſe laden with proviſions, as Bacon, Pork, and ſuch like, were ſent the ſame way, all reported to be for the Princes Court, who it ſeems, perceiving his aſſuming Title of <hi>Prince of Great Britain</hi> to fail him, is now reſolved to content him<g ref="char:EOLhyphen"/>ſelf with the furtheſt part of his Dukedom of <hi>Cornwall:</hi>
+                  <pb n="5" facs="tcp:159517:3"/>Thurſday alſo the priſoners in Launceſton were turned over from <hi>Greenviles</hi> Marſhal to the Lord <hi>Hoptons</hi> Mar<g ref="char:EOLhyphen"/>ſhal; fifty Souldiers ran the ſame day out of one Regi<g ref="char:EOLhyphen"/>ment; thoſe that they gather out of the country run away daily: Friday, ſix ploughs more were drawn into the ca<g ref="char:EOLhyphen"/>ſtle green to be loaded, with them were forty horſe, with pack Saddles, Crooks and Paniards; theſe were all repor<g ref="char:EOLhyphen"/>ted to be ſent after the reſt: That day thirty Hogſheads of Syder were brought into Launceſton from Merrington, which were likewiſe to be ſent Weſtward for the Prince; and the Marſhal gave order this day, that the priſoners in Launceſton ſhould be carried to Truro, which is about thirty miles farther into Cornwal: The Enemy endea<g ref="char:EOLhyphen"/>voured to raiſe the <hi>Poſſe Comitatus,</hi> ſome they got toge<g ref="char:EOLhyphen"/>ther, but they ſtaid not, but ran to their own homes; the Trained-Bands of the town of Launceſton get others for money to ſerve in their rooms; the Trained-Bands fur<g ref="char:EOLhyphen"/>ther Weſt will not riſe at all. There is now but one Iron Gun in Launceſton, which is an Iron piece planted be<g ref="char:EOLhyphen"/>tween the Princes Quarters and Guild hal; the poor peo<g ref="char:EOLhyphen"/>ple pull down the Works about the town to get away the Wood, none hindring them; the Prince and <hi>Hopton</hi> were Saturday, <hi>Jan.</hi> 31. both in Launceſton: Upon Intelli<g ref="char:EOLhyphen"/>gence of a party of the Enemies advancing from Oxford, Farrington and thoſe parts, towards Corf-caſtle, the Ge<g ref="char:EOLhyphen"/>neral ſent Col: <hi>Cook</hi> from Tiverton with three Regiments of horſe to attend their motion, but we now hear they are gone back: The Enemy come daily in unto our Quarters from Cornwal; this day there came a Lieutenant and nine of <hi>Gorings</hi> Life-guard wel mounted, and armed with Piſtols &amp; Carbines, came to Sir <hi>Hardres Waller</hi> who quar<g ref="char:EOLhyphen"/>ters at Crediton; our men have this day finiſhed the bridge by Apſom neer Exeter; ſo that now we may have a free
+<pb n="6" facs="tcp:159517:4"/>intercrouſe; The Ladders come in this afternoon apace. I pray commend me to all our Friends; tell them I am (thanks be to God) in health, and want only two things reſpecting my inward and outward condition; the one, a Preacher like Mr. <hi>Stirry,</hi> the other, a cup of <hi>London</hi> Beer. There is a ſcarcity of the former here, and the lat<g ref="char:EOLhyphen"/>ter not to be had, only a little ſowre Syder. If ever I re<g ref="char:EOLhyphen"/>turn to <hi>London</hi> again, I ſhall (through the Grace of God) indeavour to have an higher eſteem of thoſe precious op<g ref="char:EOLhyphen"/>portunities which are there. Thus committing you to the Protection of the Almighty, I reſt.</p>
+               <closer>
+                  <dateline>
+                     <hi>Chidly,</hi> 
+                     <date>Feb. 2. 1645.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <p>IUſt now the General is returned hither from Tiverton. This Afternoon Lieut: General <hi>Cromwel</hi> went to view our Quarters before Exe<g ref="char:EOLhyphen"/>ter. We have four Companies of Foot in the Majors houſe, called Barley, which is within leſſe then Musket ſhot of the Enemies Works; they daily ſhoot into the houſe, and we againſt them; they can alſo talk one to another, they call our men Round-headed Rogues, our men return them anſwer. We make it a Garriſon for the preſent: Our Souldiers are very cheerful, and deſire nothing ſo much as to ſtorm the City. The Enemy come in to us daily from the City,
+<pb n="7" facs="tcp:159517:4"/>but their ſpirits are ſo daunted that they dare not come out againſt us. To morrow the General goes to ſettle Poſts at Barley houſe. The Ply<g ref="char:EOLhyphen"/>mouth Regiment laſt night took a Major and twenty Horſe from the Enemy near Barſtaple. The Regiment late Col: <hi>Pickerings,</hi> now Col: <hi>Overtons,</hi> is marching toward this Army from Corfe Caſtle. Clothes are come. A Councel of War ſate this laſt night. The General, Lieut: Ge<g ref="char:EOLhyphen"/>neral, Officers and Souldiers, have great inclina<g ref="char:EOLhyphen"/>tions to ſtorm, though the city be very ſtrong, a Line about it, with Barracadoes and a ſtrong Wall.</p>
+               <floatingText type="license" xml:lang="eng">
+                  <body>
+                     <p>Publiſhed according to Order.</p>
+                  </body>
+               </floatingText>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
